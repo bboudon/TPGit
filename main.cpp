@@ -16,7 +16,8 @@
 using namespace std;
 
 int main(int argc, char** argv) {
-    cout;
+    cout<< "cout 1"<< endl;
+    cout<< "cout 2"<< endl;
     return 0;
 }
 
